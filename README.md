@@ -1,0 +1,8 @@
+Dataset: ![image](https://github.com/user-attachments/assets/64f3a1a6-b8d9-4034-97af-513d6845922c)
+Phik_Matrix: ![image](https://github.com/user-attachments/assets/5bd876a2-fab2-4778-ab33-0c2f5fdd4449)
+Weight of Evidence (Age): ![image](https://github.com/user-attachments/assets/36e2c55a-c259-4217-a488-bf411e4c0ba8)
+KendallTau Correlation matrix with created features: ![image](https://github.com/user-attachments/assets/861e5ab8-9708-441a-a6cb-8b484cc3dcea)
+ROC AUC Curve: ![image](https://github.com/user-attachments/assets/194727a4-0240-46e8-9eb3-f83b9ed7e868)
+Created features: ![image](https://github.com/user-attachments/assets/cdca2415-bbea-4bad-8a3b-773c4c13ab0c)
+Final data: ![image](https://github.com/user-attachments/assets/111be029-1069-405b-97b7-1e36d2feb946)
+Model: ![image](https://github.com/user-attachments/assets/a0a844fa-7769-48c7-8187-a0a219920309)
